@@ -1,4 +1,5 @@
 <ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/MainMenuStyleSheet.uss?fileID=7433441132597879392&amp;guid=137b186593dcacd43aac068f48e74075&amp;type=3#MainMenuStyleSheet" />
     <ui:Label text="MAIN MENU" name="haedline__label" style="-unity-font-definition: url(&quot;project://database/Assets/UI/Fonts/ChelaOne-Regular.ttf?fileID=12800000&amp;guid=8c2226f5768e49f4ca5f58858a57cb7a&amp;type=3#ChelaOne-Regular&quot;); font-size: 55px; color: rgb(255, 255, 255); text-shadow: 2px 2px 0 rgb(0, 0, 0);" />
     <ui:Button text="START GAME" name="start-game__button" />
     <ui:Button text="CREDITS" name="credits__button" />
